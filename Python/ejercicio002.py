@@ -1,5 +1,5 @@
 # Calculo del area y perímetro de un cuadrado
-lado = float (input ("Por favor, ingrese la medida del lado del cuadrado: ")) 
+lado = float (input ("Ingrese la medida del lado del cuadrado: ")) 
 
 # Operaciones
 area = lado * lado
