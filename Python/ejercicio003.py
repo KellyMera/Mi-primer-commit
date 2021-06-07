@@ -1,5 +1,5 @@
 #Ejercicio de área y perímetro de un triángulo
-base = float (input("Por favor, ingrese la base del triánngulo: "))
+base = float (input("Por favor, ingrese la base del triángulo: "))
 altura = float (input("Por favor, ingrese la altura del triángulo: "))
 
 #Operaciones
