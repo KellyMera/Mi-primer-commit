@@ -1,4 +1,4 @@
-#Ejercicio del área y perímetro del círculo
+#Cálculo del área y perímetro del círculo
 radio = float (input("Por favor, ingrese el radio del círculo: "))
 pi = 3.1415
 
